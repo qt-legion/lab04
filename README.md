@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/qt-legion/lab04.svg?branch=master)](https://travis-ci.org/qt-legion/lab04)
+[![Build Status](https://travis-ci.com/qt-legion/lab04.svg?branch=master)](https://travis-ci.com/qt-legion/lab04)
 ## Laboratory work IV
 
 <a href="https://yandex.ru/efir/?stream_id=vjKAlxJ0UQrs"><img src="https://raw.githubusercontent.com/tp-labs/lab03/master/preview.png" width="640"/></a>
